@@ -1,1 +1,12 @@
-/*# sourceMappingURL=main.css.map */
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+body {
+  font-family: "Roboto";
+}/*# sourceMappingURL=main.css.map */

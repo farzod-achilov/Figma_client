@@ -158,4 +158,10 @@ body {
   .span span {
     font-size: 13px;
   }
+}
+.block_post-sect-1 {
+  margin-top: 10%;
+}
+.block_post-sect-1 .block_post-span {
+  text-align: center;
 }/*# sourceMappingURL=main.css.map */

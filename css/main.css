@@ -214,6 +214,17 @@ button {
   margin-top: 50px;
   margin-bottom: 10px;
 }
+.block_post-sect-2 h2 {
+  margin-bottom: 10px;
+}
+.block_post-sect-2 p {
+  line-height: 27px;
+}
+.block_post-sect-2 .li-text {
+  list-style: disc;
+  margin-bottom: 20px;
+}
+
 .block_post-footer {
   background-color: #0B0706;
   height: 370px;

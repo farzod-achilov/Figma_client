@@ -12,6 +12,24 @@
     .footer-nav {
         display: flex;
         gap: 100px;
+        position: relative;
+        top: 100px;
+
+        h4 {
+            font-size: 18px;
+        }
+
+        ul {
+            li {
+                margin-top: 10px;
+
+               a {
+                position: relative;
+                top: 5px;
+                color: $color-primary-p;
+               }
+            }
+        }
     }
 
     .footer-box-2 {

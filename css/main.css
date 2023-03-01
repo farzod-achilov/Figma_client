@@ -210,6 +210,10 @@ button {
   background-image: url(../../../../img/Block_post_read_more_img.png);
 }
 
+.block_post-sect-2 h4 {
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
 .block_post-footer {
   background-color: #0B0706;
   height: 370px;
